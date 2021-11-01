@@ -4,7 +4,7 @@
 
 ## Explicando o projeto
 
-Neste projeto iremos criar uma placa de 100 mil inscritos do Youtube utilizando HTML CSS e JavaScript, contendo um easter egg dentro da placa. O mesmo se refere a um caso famoso que aconteceu anos atrás no youtube BR.
+Neste projeto iremos criamos uma placa de 100 mil inscritos do Youtube utilizando HTML CSS e JavaScript, contendo um easter egg dentro da placa. O mesmo se refere a um caso famoso que aconteceu anos atrás no youtube BR.
 
 ## O que aprendi e utilizei nesse projeto:
 
